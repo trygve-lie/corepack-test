@@ -1,0 +1,16 @@
+{
+  "name": "corepack-test-yarn",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "yarn@3.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Trygve Lie",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "3.27.2"
+  }
+}

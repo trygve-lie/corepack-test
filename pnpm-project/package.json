@@ -1,0 +1,16 @@
+{
+  "name": "corepack-test-pnpm",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "pnpm@6.32.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Trygve Lie",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "3.27.2"
+  }
+}
